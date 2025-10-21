@@ -2,7 +2,7 @@
 
 Jednoduchá **konzolová** aplikace v Javě, která simuluje bankovní účet s volitelným **kontokorentem** a **spotřebitelským úvěrem**. Projekt je psaný česky (proměnné, texty v konzoli) a je vhodný jako cvičení OOP (dědičnost, přetěžování, práce se stavem).
 
-> Repo: *Bank-System_java*
+> Repo: *Bank-System-Java*
 
 ---
 
